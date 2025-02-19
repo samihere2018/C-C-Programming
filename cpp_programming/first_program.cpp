@@ -6,4 +6,5 @@ int main(){
     return 0; //always end your program with a return statement
 }
 
-//To run the above in a MACOS or Windows terminal, use the following command: g++ -o firstprogram first_program.cpp & first_program.exe
+//To run the above in a MACOS or Windows terminal, use the following command: g++ -o firstprogram first_program.cpp 
+// Next run the dummy name: ./firstprogram
