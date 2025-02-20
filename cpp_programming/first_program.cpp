@@ -1,6 +1,7 @@
 /* Date: Tuesday, 18th February, 2025 */
 /* Author: Sylvia Dogbatsey */
 /* Description: First program in C++ */
+
 #include<iostream> //this line and the next should always begin in a c++ file
 using namespace std; //
 
