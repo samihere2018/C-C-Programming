@@ -2,8 +2,9 @@
 /* Author: Sylvia Dogbatsey */
 /* Description: First program in C++ */
 
-//To run the program in a MACOS or Windows terminal, use the following command: g++ -o firstprogram first_program.cpp 
-// Next run the dummy name: ./firstprogram
+/* To run the program in a MACOS or Windows terminal, use the following command: */
+/* g++ -o firstprogram first_program.cpp */
+/* Next run the dummy name: ./firstprogram */
 
 /* Main Program */
 #include <iostream> //this line and the next should always begin in a c++ file
