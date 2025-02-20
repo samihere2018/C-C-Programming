@@ -2,7 +2,7 @@
 /* Author: Sylvia Dogbatsey */
 /* Description: First program in C++ */
 
-#include<iostream> //this line and the next should always begin in a c++ file
+#include <iostream> //this line and the next should always begin in a c++ file
 using namespace std; //
 
 int main(){
