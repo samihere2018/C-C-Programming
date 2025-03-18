@@ -15,3 +15,12 @@ int main(){
     return 0; //always end your program with a return statement
 }
 
+
+// /*Alternatively, you can run the command below*/ 
+// #include <iostream>
+
+// int main(){
+//     std:: cout<<"Hello Sylvia Dogbatsey, this is your first c-plus-plus file. \n";
+//     return 0; 
+// }
+
