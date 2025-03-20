@@ -13,7 +13,7 @@ int main(){
 
     cout << "Hello World.\n";
     cout << "You can run multiple lines in one file. \n";
-    // cout << " \n ";
+    // cout << " \n "; 
     cout << 12+26+2024 <<"\n";
     cout << 12*26*2024 <<"\n";
     cout << "I am learning c++." <<"\n\n";
