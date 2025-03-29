@@ -1,6 +1,5 @@
-/* Date: Wednesday, 24th March, 2025 */
+/* Date: 24th March, 2025 */
 /* Author: Sylvia Dogbatsey */
-/* Description: Second program in C++ */
 
 /* To run the program in a MACOS or Windows terminal, use the following command: */
 /* g++ -o dummyname filename.cpp */
