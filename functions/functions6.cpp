@@ -5,7 +5,7 @@
 /* g++ -o dummyname filename.cpp */
 /* Next run the dummy name: ./dummyname */
 
-/* Topic: Function : Return Keyword */
+/* Topic: Functions : Return Keyword */
 /* If you want the function to return a value, you can use a data type (such as int, string, etc.) instead of void, 
    and use the return keyword inside the function. */
 

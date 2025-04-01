@@ -5,7 +5,7 @@
 /* g++ -o dummyname filename.cpp */
 /* Next run the dummy name: ./dummyname */
 
-/* Topic: Function Parameters */
+/* Topic: Functions Parameters */
 /* Information can be passed to functions as a parameter.
    Parameters act as variables inside the function.
    Parameters are specified after the function name, inside the parentheses. 

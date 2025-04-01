@@ -5,7 +5,7 @@
 /* g++ -o dummyname filename.cpp */
 /* Next run the dummy name: ./dummyname */
 
-/* Topic: Function : Default Parameter */
+/* Topic: Functions : Default Parameter */
 /* You can also use a default parameter value, by using the equals sign (=). */
 
 #include <iostream>

@@ -5,7 +5,7 @@
 /* g++ -o dummyname filename.cpp */
 /* Next run the dummy name: ./dummyname */
 
-/* Topic: Function : Multiple Parameters */
+/* Topic: Functions : Multiple Parameters */
 
 #include <iostream>
 #include <string>
