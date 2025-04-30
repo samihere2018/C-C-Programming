@@ -34,5 +34,6 @@ int main() {
     phoneNumber myObj;
     myObj.theNum(2018);
     cout<<myObj.getNum()<<endl;
+    cout<<"The number is "<<myObj.theNum(2000)<<endl;
     return 0;
 }
