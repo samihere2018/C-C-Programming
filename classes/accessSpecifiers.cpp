@@ -20,6 +20,7 @@ class Employee {
       int salary;
 };
 
+//derived class
 class Programmer : public Employee {
     public:
       int bonus;

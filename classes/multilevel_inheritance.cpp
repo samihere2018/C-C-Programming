@@ -14,6 +14,7 @@
 #include <string>
 using namespace std;
 
+
 //parent class
 class MyClass {
     public:
