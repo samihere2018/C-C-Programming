@@ -32,17 +32,44 @@ int main(){
     stack<string> cities;
 
     /* Add Elements: To add elements to the stack, use the .push() function, after declaring the stack.*/
-    cities.push("Washington Dulles");
-    cities.push("Charlotte");
     cities.push("Birmingham");
     cities.push("Tuscaloosa");
     cities.push("Atlanta");
     cities.push("Starkville");
     cities.push("Dallas");
-    cities.push("fort Worth");
+    cities.push("Fort Worth");
     cities.push("Forney"); //remember that the last element added is the top element
 
+    /* Access Stack Elements: You cannot access stack elements by referring to index numbers, like you would with arrays and vectors.
+                              In a stack, you can only access the top element, which is done using the .top() function. */
 
+    cout<<cities.top()<<endl; //outputs Forney
+
+    cout<<" "<<endl;
+
+    /* Change the Top Element: You can also use the .top function to change the value of the top element. */
+    cities.top() = "Baltimore"; //replaces Forney with Baltimore 
+    cout<<cities.top()<<"\n";   //outputs Baltimore
+
+    cout<<" "<<endl;
+
+    /* Remove Elements: You can use the .pop() function to remove an element from the stack.
+                        This will remove the last element that was added to the stack. */
+    
+    cities.pop(); //Removes Baltimore which was previously Forney
+    cout<<cities.top()<<endl; //the top element is now Fort Worth
+
+    cout<<" "<<endl;
+
+    /* Get the Size of the Stack: To find out how many elements a stack has, use the .size() function.*/
+    cout<<cities.size()<<endl;
+
+    cout<<" "<<endl;
+
+    /* Check if the Stack is Empty: Use the .empty() function to find out if the stack is empty or not.
+                                    The .empty() function returns 1 (true) if the stack is empty and 0 (false) otherwise. */
+    
+    cout<<cities.empty()<<endl;
 
     return 0;
 }
