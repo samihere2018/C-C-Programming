@@ -64,7 +64,10 @@ int main() {
     //if the user's birth month is the same as the current month of the year but his birthday is not already celebrated
     else if(diffInMonth==0 && diffInMonthDay<0){
         cout<<"Hi "<<firstname<<"!. You will turn "<<ageNextYearNotCelebrated<<" next year.\n";
-
+    }
+    //if the user's birth month is the same as the current month of the year but his birthday is not already celebrated
+    else if(diffInMonth==0 && diffInMonthDay==0) {
+        cout<<"Hi "<<firstname<<"!. You will turn "<<ageNextYearCelebrated<<" next year.\n";
     }
     //if the user's birth month is after the current month of the year
     else if (diffInMonth<0) {
